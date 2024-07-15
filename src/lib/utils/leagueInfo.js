@@ -7,12 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the official website of the WANDA your ultimate destination for all things fantasy football! </p>
+  <p>Since our inception in 2015, WANDA has grown from a small league of passionate enthusiasts to a thrilling and competitive community where strategy, skill, and camaraderie come together on the fantasy gridiron.
+
+Here, you'll find everything you need to stay connected with the league, from the latest news and updates to in-depth analysis and team profiles. Dive into the rich history of WANDA, reliving the epic moments from past seasons, and get to know the teams and coaches who have shaped the league. Whether you're a seasoned veteran or a newcomer to the world of fantasy football, our website offers a wealth of resources to enhance your experience.
+
+Explore our detailed standings and statistics to see how your favorite teams are performing, and stay up to date with live draft coverage and weekly matchups. Don't miss out on the thrilling stories that unfold each season, from dramatic playoff battles to the coveted WANDA Bowl and the dreaded "The Sacko" trophy.
+
+Join us as we celebrate the passion, strategy, and excitement that define WANDA. Get ready to immerse yourself in a world where every game matters, every decision counts, and the quest for fantasy football glory never ends. Welcome to the WANDA family!</p>
 `;
 
 /*   STEP 3   */
