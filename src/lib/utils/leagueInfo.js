@@ -26,17 +26,14 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "managerID": "422432537604804608",
-      "name": "Brixton Bees",
+      "name": "Ed",
       "location": "Brixton", // (optional)
       "bio": "The Brixton Bees (Founded 2022) have already tasted success in their inaugural season - albeit through controversial circumstances.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Putney Pangolins", // Can be anything (usually your rival's name)
-        link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-      },
+              },
       "favoritePlayer": 6979, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "DB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "philosophy": "Careful research and value picks",
@@ -44,20 +41,18 @@ export const managers = [
       },
       {
       "managerID": "635942992292700160",
-      "name": "Winchester Squirrels",
-      "location": "Winchester", // (optional)
+      "name": "Pete",
+      "location": "Connah's Quay", // (optional)
       "bio": "The Winchester Squrrels (Founded 2015) are one of the leagues founding teams. A mainstay in the post-season, they have not regularily converted their continued regular success into championship glory. A two time winner of the WANDA, the Squirrels will look to extend their record as the most successful team within the league.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Birkdale Barracudas", // Can be anything (usually your rival's name)
-        link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        
       },
       "favoritePlayer": 18877, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Win regular season, bottle Playoffs",
+      "philosophy": "Win Regular Season, bottle Playoffs",
       "tradingScale": 8, // 1 - 10
       },
   ]
